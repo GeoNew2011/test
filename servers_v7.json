@@ -1,6 +1,9 @@
 [
   {
-    "name": "Erepulo"
-    "address": ["127.0.0.1"]
+    
+    "name": "Pushkin",
+    "address": ["23.88.73.88:13123"]
+
+    
   }
 ]
